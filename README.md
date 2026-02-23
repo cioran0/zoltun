@@ -1,7 +1,10 @@
 # zoltun
 The Open Source AI chat client with interchangeable themes
 
-See theme directory theme_instructions.md for theme instructions
+See theme directory theme_instructions.md for theme instructions.
+
+<img width="799" height="629" alt="UI_pastels" src="https://github.com/user-attachments/assets/6af641bd-6bcd-427c-bb79-4e13024f004e" />
+<img width="788" height="632" alt="US_binary_screenshot" src="https://github.com/user-attachments/assets/4c5f986a-0dd1-4ee4-9033-fe408abc8b42" />
 
 Some things in source that can be compiled not yet in build - 
 * exception thrown if you don't enter the api key after 4 times and exit
