@@ -28,4 +28,4 @@ Theme layout "simple = yes" is 5 colors is -
 
 Opacity must be defined for both.
 
-inverse or matrix are not currently used, for diagnostic purpose. Either use or omit key/value pair.
+inverse or matrix are color alignment with prompt_bg and the buttons. They were used heavily in a previous build and may be removed soon. inverse is default.
