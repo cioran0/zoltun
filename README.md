@@ -6,7 +6,5 @@ The Open Source AI chat client with interchangeable themes that runs locally. Se
 <img width="788" height="632" alt="US_binary_screenshot" src="https://github.com/user-attachments/assets/4c5f986a-0dd1-4ee4-9033-fe408abc8b42" />
 
 Some things in source that can be compiled not yet in build - 
-* exception thrown if you don't enter the api key after 4 times and exit
-* theme can be selected using inputTheme (must be selected in both .py files)
-* dropdown exists but is non-operable and needs theming finished, comment it out
 * currently only supports zai api, but any can be added in the relevant section. Should be coming to source and prob next build soon. OR will likely be first.
+* need to manually install/move theme directory from temp because pyinstaller build creates temp not replicated structure until I figure workaround
