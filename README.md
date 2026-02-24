@@ -1,5 +1,5 @@
 # zoltun
-The Open Source AI chat client with interchangeable themes
+The Open Source AI chat client with interchangeable themes that runs locally
 
 See theme directory theme_instructions.md for theme instructions.
 
